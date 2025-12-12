@@ -1,4 +1,21 @@
+# TeleLink Communications — AI-Powered Customer Churn & CLV Prediction Platform
 
+---
+
+# 🎯 1. Project Overview
+
+TeleLink Communications serves over **1.2 million customers** across the United States and faces three major challenges:
+
+- Rising customer churn (**14.2%**)  
+- Difficulty forecasting long-term revenue  
+- Unpredictable usage patterns affecting operational costs  
+
+This project delivers an **end-to-end AI platform** that:
+
+- Predicts customer churn with high sensitivity (recall-focused)  
+- Estimates Customer Lifetime Value (CLV)  
+- Supports strategic, data-driven retention decision-making  
+- Offers a **cloud-deployed** web application for real-time analysis  
 The solution integrates **classical machine learning**, **deep learning**, and **cloud technologies**.
 
 ---
